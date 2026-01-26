@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Overlöper"
+    given-names: "Phillip Johann"
+    orcid: "https://orcid.org/0009-0001-8589-4060"
+title: "State-Learning of Time Series Data with Contrastive Learning"
+version: 1.0.0
+
+date-released: 2026-01-26
