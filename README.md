@@ -1,3 +1,8 @@
+[![Python](https://img.shields.io/badge/python-3.12-brightgreen)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![PyTorch](https://img.shields.io/badge/PyTorch-supported-orange)](https://pytorch.org/)
+[![Status](https://img.shields.io/badge/status-research--code-lightgrey)]()
+
 # IEEE CAI Experiments: Discrete Representation Learning for Time-Series Data
 
 This repository contains the code for the experiments conducted for our IEEE CAI paper.
